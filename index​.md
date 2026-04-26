@@ -1,7 +1,3 @@
----
-title: Gizlilik Politikası
----
-
 # Gizlilik Politikası
 
 Son güncelleme: 26 Nisan 2026
